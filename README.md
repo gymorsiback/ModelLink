@@ -75,6 +75,21 @@ ssh-copy-id -p [Port] [Username]@[Target Server IP]
 
 Finally, you can view the final generated result and the intermediate results in the corresponding path on the MainServer.
 
+## Contact & Support
 
+For questions, bug reports, or collaboration inquiries:
+
+- **Email**: [gymorsiback@tju.edu.cn]
+
+---
+
+## Acknowledgments
+
+Special thanks to the open-source community for providing foundational tools:
+- [PyTorch](https://pytorch.org/) for deep learning framework
+- [DeepHypergraph (DHG)](https://github.com/iMoonLab/DeepHypergraph) for hypergraph utilities
+- [scikit-learn](https://scikit-learn.org/) for evaluation metrics
+
+---
 
 
