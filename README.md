@@ -83,13 +83,4 @@ For questions, bug reports, or collaboration inquiries:
 
 ---
 
-## Acknowledgments
-
-Special thanks to the open-source community for providing foundational tools:
-- [PyTorch](https://pytorch.org/) for deep learning framework
-- [DeepHypergraph (DHG)](https://github.com/iMoonLab/DeepHypergraph) for hypergraph utilities
-- [scikit-learn](https://scikit-learn.org/) for evaluation metrics
-
----
-
 
